@@ -1,0 +1,10 @@
+{
+	"author": "Alexis",
+	"version": "1.0",
+	"client_scripts": [
+		"object.lua"
+	],
+	"files": [
+	"Plante.pak"
+	]
+}
